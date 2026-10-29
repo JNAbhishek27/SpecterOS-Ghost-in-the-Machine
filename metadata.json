@@ -1,0 +1,6 @@
+{
+  "name": "SpecterOS: Ghost in the Machine",
+  "description": "An open-source AI séance chamber, Día de los Muertos digital ofrenda, possessed terminal, and spooky IoT ghost story weaver for Hacktoberfest 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
